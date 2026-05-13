@@ -1,6 +1,8 @@
-# global-phone-validation-automation
+global-phone-validation-automation
+
 Automated Selenium + Python testing framework to validate international phone number field behavior across 247 countries.
-eatures
+
+Features
 Dynamic country-wise phone validation testing
 Real mobile number generation using phonenumbers
 Valid number validation check
